@@ -1,0 +1,11 @@
+C:\Users\Константин\Desktop\Проекты\Телеграм бот\Trlegram_bot\Trlegram_bot\bin\Debug\netcoreapp2.1\Trlegram_bot.deps.json
+C:\Users\Константин\Desktop\Проекты\Телеграм бот\Trlegram_bot\Trlegram_bot\bin\Debug\netcoreapp2.1\Trlegram_bot.runtimeconfig.json
+C:\Users\Константин\Desktop\Проекты\Телеграм бот\Trlegram_bot\Trlegram_bot\bin\Debug\netcoreapp2.1\Trlegram_bot.runtimeconfig.dev.json
+C:\Users\Константин\Desktop\Проекты\Телеграм бот\Trlegram_bot\Trlegram_bot\bin\Debug\netcoreapp2.1\Trlegram_bot.dll
+C:\Users\Константин\Desktop\Проекты\Телеграм бот\Trlegram_bot\Trlegram_bot\bin\Debug\netcoreapp2.1\Trlegram_bot.pdb
+C:\Users\Константин\Desktop\Проекты\Телеграм бот\Trlegram_bot\Trlegram_bot\obj\Debug\netcoreapp2.1\Trlegram_bot.csprojAssemblyReference.cache
+C:\Users\Константин\Desktop\Проекты\Телеграм бот\Trlegram_bot\Trlegram_bot\obj\Debug\netcoreapp2.1\Trlegram_bot.csproj.CoreCompileInputs.cache
+C:\Users\Константин\Desktop\Проекты\Телеграм бот\Trlegram_bot\Trlegram_bot\obj\Debug\netcoreapp2.1\Trlegram_bot.AssemblyInfoInputs.cache
+C:\Users\Константин\Desktop\Проекты\Телеграм бот\Trlegram_bot\Trlegram_bot\obj\Debug\netcoreapp2.1\Trlegram_bot.AssemblyInfo.cs
+C:\Users\Константин\Desktop\Проекты\Телеграм бот\Trlegram_bot\Trlegram_bot\obj\Debug\netcoreapp2.1\Trlegram_bot.dll
+C:\Users\Константин\Desktop\Проекты\Телеграм бот\Trlegram_bot\Trlegram_bot\obj\Debug\netcoreapp2.1\Trlegram_bot.pdb
